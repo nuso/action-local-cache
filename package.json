@@ -1,4 +1,4 @@
-{
+git rebase --continuegit rebase --continuegit rebase --continue{
   "name": "action-local-cache",
   "version": "2.1.0",
   "private": true,

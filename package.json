@@ -19,7 +19,7 @@ git rebase --continuegit rebase --continuegit rebase --continue{
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MasterworksIO/action-local-cache.git"
+    "url": "git+https://github.com/nuso/action-local-cache.git"
   },
   "keywords": [
     "actions",
@@ -27,7 +27,7 @@ git rebase --continuegit rebase --continuegit rebase --continue{
     "self-hosted",
     "runner"
   ],
-  "author": "Masterworks",
+  "author": "nuso",
   "license": "MIT",
   "dependencies": {
     "@actions/core": "1.10.0",

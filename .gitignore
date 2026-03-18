@@ -96,3 +96,10 @@ Thumbs.db
 
 # Ignore built ts files
 __tests__/runner/*
+/.review-triage/
+
+# Claude Stuff
+.claude/settings.local.json
+
+# HumanLayer Stuff
+/thoughts

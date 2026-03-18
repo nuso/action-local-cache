@@ -1,11 +1,11 @@
 {
   "name": "action-local-cache",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "private": true,
   "description": "A Github Action to save and restore files across job runs directly in the runner's file system",
   "main": "dist/main/index.js",
   "engines": {
-    "node": "^18.12.0"
+    "node": ">=24"
   },
   "prettier": "@masterworks/eslint-config-masterworks/prettier",
   "scripts": {
@@ -37,7 +37,7 @@
   "devDependencies": {
     "@masterworks/eslint-config-masterworks": "github:MasterworksIO/eslint-config-masterworks#2.1.1",
     "@types/jest": "29.5.3",
-    "@types/node": "18.16.19",
+    "@types/node": "24.0.3",
     "@typescript-eslint/eslint-plugin": "5.62.0",
     "@typescript-eslint/parser": "5.62.0",
     "eslint": "8.46.0",
